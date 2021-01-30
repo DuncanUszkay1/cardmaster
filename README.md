@@ -49,3 +49,5 @@ Or maybe strike out into the woods, spray some monster deterrent, and hope for t
 [Player Cheatsheet](https://github.com/DuncanUszkay1/cardmaster/blob/main/CHEATSHEET.md)
 
 [Setup Guide](https://github.com/DuncanUszkay1/cardmaster/blob/main/SETUP.md)
+
+[WIP Cardsheet](https://docs.google.com/spreadsheets/d/1s8L9lcJwqoYKn2DrjB7HNZfx63HWkt7wJffzblDnjPo/edit#gid=574077768)
