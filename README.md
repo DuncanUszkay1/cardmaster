@@ -42,6 +42,8 @@ Or maybe strike out into the woods, spray some monster deterrent, and hope for t
 
 <img src="https://github.com/DuncanUszkay1/cardmaster/blob/main/Monster%20Deterrent.jpg" width="250" height="400">
 
+Or instead choose to skip sleeping entirely, so that they don't miss their window of opportunity to complete a certain quest.
+
 ## Continued Reading
 
 [Full Ruleset](https://github.com/DuncanUszkay1/cardmaster/blob/main/RULES.md)
