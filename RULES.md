@@ -66,7 +66,7 @@ Unable to deal damage
 
 ## Card System
 
-**Cards** can be used to activate special abilities. Cards can be used **instantaneously** at **anytime**, **including the NPCs combat turn**. Card abilities are guaranteed to succeed, though they may not achieve the desired effect, depending on usage.
+**Cards** can be used to activate special abilities. Cards can be used **instantaneously** at **anytime**, **including the NPCs' combat turn**. Card abilities are guaranteed to succeed, though they may not achieve the desired effect, depending on usage.
 
 Players can hold up to **15 cards in their hand**, and **as many as they'd like in their inventory**.
 
