@@ -21,13 +21,19 @@ Combat is performed in turns. The players all share a turn, as do the NPCs. The 
 All players have the same stats:
 
 HP: 20
+
 Melee(Unarmed): 1d4
+
 Melee(Armed): 1d6
+
 Ranged(Armed): 1d4
 
 Ranged Attacks have a **hit rate** based on the difficulty of the shot:
+
 Easy(point blank, a few metres away, unmoving target): 100%
+
 Medium(Moving target, 2m+ away): 50% (10 or higher)
+
 Hard(Moving target, 20m+ away): DM's choice. At best 20%(16 or higher)
 
 When a player goes **unconscious** they **choose one card out of both inventory and hand to keep**, then **discard the rest**. **They also lose all the money they're holding**. Players may be killed from an unconscious state, but only intentionally.
@@ -35,9 +41,13 @@ When a player goes **unconscious** they **choose one card out of both inventory 
 ### NPCs
 
 NPCs have a predetermined amount of HP.
+
 NPCs do not use cards.
+
 NPCs have up to one special ability defined by the DM.
+
 NPC's should be extremely easy to play, to avoid distracting the DM.
+
 All NPCs share the same turn, and roll a single dice for initiative against the Players.
 
 ### Default NPC
@@ -46,10 +56,12 @@ In the case where an NPC doesn't have combat information predetermined by the DM
 
 **Healthy:**
 HP: 5
+
 Damage stats the same as the Player
 
 **Frail:**
 HP: 1
+
 Unable to deal damage
 
 ## Card System
@@ -74,19 +86,22 @@ Some cards can only be acquired under special conditions.
 
 ### Acquiring Cards
 
-Cards can be found, purchased, stolen, and dropped. Players cannot steal from other Players, though they can trade.
+Cards can be found, purchased, stolen, dropped, and traded for. Players cannot steal from other Players.
 
 ### Card Exchange
 
 There are three card exchanges which are always available for Players to use on cards in their **inventory**. When these trades are made, the cards the players offer are returned the the deck of the appropriate tier. Those trades are as follows:
 
 3 cards of the same tier -> 1 random card of tier tier above
+
 For example, a player could trade Hurt(Grey), Heal(Grey), and Fluster(Grey) to draw Jump(Blue) from the Green deck.
 
 Any 1 card -> 1 random card of a lower tier
+
 For example, a player could trade Leap(Green) to randomly draw Ignite(Grey) from the Grey deck.
 
 3 cards with the same name -> 1 Upgraded version of that card
+
 For example, a player could trade 3 copies of Jump(Blue) to draw exactly Leap(Green) from the Green deck.
 
 **Note that not all cards have upgrades- if a card has an upgraded version it'll be indicated on the typeline.**
