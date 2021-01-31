@@ -24,7 +24,7 @@ Most human related work in the Tower is performed by Agents. Agents are humanoid
 
 Inter-world cartels and companies have formed among the human escapees. Vast fortunes are realized in the unspoiled, resource rich cubes populated by primitive societies. These societies are helpless to defend themselves against the superior technology wielded by their invaders. Their fate is destitution and slavery, as the resources of their world are extracted for external interests. These riches are primarily centralized in an organization simply known as "The Mafia". They enjoy luxury and indulge in all forms of entertainment. A visit to their extravagant mall world or the infamous fighting ring will teach you all you need to know. Their leader is given the title of "The Don", who rules the organization with an iron fist.
 
-Roaming the vast corridors of the Tower are countless vagrants, ejected from their worlds due to war, persecution, or salvage. They seek new hospitable worlds to restart their lives in. Navigating the Tower is no easy task however, and many become lost, never to be seen again. If they're fortunate enough to stumble upon a human faction like the Rebels or the Mafia, they tend to join the ranks as its preferable to the cold empty space between worlds.
+Roaming the vast corridors of the Tower are countless vagrants, ejected from their worlds due to war, persecution, or salvage. They seek new hospitable worlds to restart their lives in. Navigating the Tower is no easy task however, and many become lost, never to be seen again. If they're fortunate enough to stumble upon a human faction like the Rebels or the Mafia, they tend to join the ranks as it's preferable to the cold empty space between worlds.
 
 ## Premise - Gerraro's Bandits
 
