@@ -3,7 +3,7 @@
 Cardmaster is a tabletop RPG which uses a basic TTRPG shell with the addition of a card based ability system.
 
 ## Goals
-- Allowing for the 'try-anything' gameplay provided TTRPGs like Dungeons and Dragons
+- Allowing for the 'try-anything' gameplay provided by TTRPGs like Dungeons and Dragons
 - Emphasizing the collection and use of large volumes of cards
 
 ## Overview
